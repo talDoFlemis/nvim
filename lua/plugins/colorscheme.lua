@@ -12,6 +12,10 @@ return {
     lazy = true,
     opts = {
       variant = "moon",
+
+      styles = {
+        transparency = true,
+      },
     },
   },
 }
